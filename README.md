@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TeitlerS
-- 👀 I’m interested in robotics, ai, data science, industrial automation, machine vision, SLAM, robot motion planning, mechatronics, IOT, IIOT, algorithm design, etc
+- 👀 I’m interested in robotics, ai, data science, industrial automation, machine vision, SLAM, robot motion planning, mechatronics, IOT, IIOT, algorithm design, product development, etc
 - 🌱 I’m currently learning robotics, etc
 - 💞️ I’m looking to collaborate on, open source projects, etc
 
